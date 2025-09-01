@@ -1,4 +1,5 @@
 # GIT-learning-playground
+<img width="2048" height="2048" alt="Gemini_Generated_Image_xryevtxryevtxrye" src="https://github.com/user-attachments/assets/4c76f3b4-822a-4f4e-a4a8-6e544caeb957" />
 
 ```Plain text
 
