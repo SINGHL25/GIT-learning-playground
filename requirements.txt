@@ -1,1 +1,7 @@
 
+gitpython
+pyyaml
+jupyter
+pytest
+pandas
+matplotlib
