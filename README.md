@@ -70,3 +70,32 @@ git-learning-playground/
          ├── git_flow.png
          ├── commit_graph.png
          └── ci_cd_flow.png
+
+
+
+
+# Git Learning Playground
+
+Hands-on educational repo to learn Git, GitHub, GitLab and CI/CD workflows from beginner → advanced.
+
+## Goals
+- Learn Git fundamentals (init, add, commit, push, pull)
+- Practice branching, merging, conflict resolution
+- Understand GitHub workflows: fork, PR, review
+- Understand GitLab CI/CD pipelines
+- Automate common tasks with Python (GitPython)
+- Try CLI and GUI workflows
+- Run example projects and pipelines locally
+
+## Quick start
+```bash
+git clone <repo-url>
+cd git-learning-playground
+python -m venv .venv
+# activate
+source .venv/bin/activate   # mac/linux
+.venv\Scripts\activate      # windows
+pip install -r requirements.txt
+python main.py              # optional demo script
+pytest -q
+
